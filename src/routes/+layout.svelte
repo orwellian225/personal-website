@@ -1,4 +1,6 @@
 <script lang="ts">
+    export const prerender = true;
+
     import NavBar from "$lib/components/complex/nav_bar.svelte";
 </script>
 
